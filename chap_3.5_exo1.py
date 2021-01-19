@@ -1,9 +1,10 @@
 import random
 secret = random.randint(0, 100)
 i = 0
-a = int(input("Veuillez entrer un numéro"))
+
 
 while i < 6:
+    a = int(input("Veuillez entrer un numéro"))
     i = i+1
     if i == 5:
         print("Perdu ! Le secret était", secret)

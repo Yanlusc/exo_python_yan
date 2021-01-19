@@ -1,6 +1,6 @@
 x1=int(input())
-y1=int(input())
 x2=int(input())
+y1=int(input())
 y2=int(input())
 def distance_points():
     mon_tuple = x1, y1

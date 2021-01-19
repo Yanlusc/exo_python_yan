@@ -20,10 +20,10 @@ print(next(dd))
 print(list(dd))
 
 
-def simpleGenerator():
-    yield 1
-    yield 2
-    yield 3
+# def simpleGenerator():
+#     yield 1
+#     yield 2
+#     yield 3
 
-for j in simpleGenerator():
-    print(j)
+# for j in simpleGenerator():
+#     print(j)

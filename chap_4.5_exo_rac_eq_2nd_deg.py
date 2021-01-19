@@ -16,4 +16,4 @@ def  rac_eq_2nd_deg (a,b,c):
     else :
         mon_tuple = tuple()
     return (mon_tuple)
-rac_eq_2nd_deg(a,b,c)
+print(rac_eq_2nd_deg(a,b,c))
